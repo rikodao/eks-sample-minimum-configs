@@ -1,0 +1,1 @@
+# eks-sample-minimum-configs
